@@ -53,7 +53,7 @@ This project focuses on analyzing customer churn behavior to help businesses ret
 
 > ## 📊 Dashboard Screenshot
 
-![Churn Dashboard](images/CustomerChurnData.png)
+![Churn Dashboard](CustomerChurnData.png)
 
 
 
