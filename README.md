@@ -1,6 +1,5 @@
-# CustomerChurnData
-Analyze customer churn behavior using Python and Power BI. This project includes data cleaning, exploratory analysis, and building interactive dashboards to identify key churn drivers and support customer retention strategies.
-# 🔍 Customer Churn Analysis – End-to-End Data Analytics Project
+
+# Customer Churn Analysis – End-to-End Data Analytics Project
 
 This project focuses on analyzing customer churn behavior to help businesses retain valuable customers. Using tools like **Python (Pandas, Matplotlib, Seaborn)** and **Power BI**, this analysis explores customer behavior, identifies churn patterns, and builds dashboards for data-driven decisions.
 
